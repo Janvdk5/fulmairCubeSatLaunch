@@ -36,6 +36,8 @@ Key software systems include:
 
 Contributions are welcome from members of 2023 Darwin-payload and Darwin-software, please just let us know before you do! Open an issue or submit a pull request if you would like to improve the codebase.
 
+Pls edit this as and where is needed, thank you Julia for all the work so far!
+
 ## 📬 Contact
 
 For more information about the rocktry team, please reach out to the Endeavour Rockets Payload Team at **[team@endeavourrockets.com](mailto:team@endeavourrockets.com)**.
